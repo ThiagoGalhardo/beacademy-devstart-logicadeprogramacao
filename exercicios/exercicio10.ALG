@@ -1,7 +1,7 @@
 Algoritmo "SaldoDepositoTransferencia"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Uutilizando a estrutura escolha caso, permita ao usuário escolher a operação a realizar (depósito ou saque ou transferência) , caso a operação seja de transferência solicite o nome do banco, da agência e conta, receba as informações e, em ao final exiba o valor inicial, a operação realizada e o saldo atual, no caso de transferência exiba também os dados do banco, agência e conta.
+// Descrição   : Utilizando a estrutura escolha caso, permita ao usuário escolher a operação a realizar (depósito ou saque ou transferência) , caso a operação seja de transferência solicite o nome do banco, da agência e conta, receba as informações e, em ao final exiba o valor inicial, a operação realizada e o saldo atual, no caso de transferência exiba também os dados do banco, agência e conta.
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

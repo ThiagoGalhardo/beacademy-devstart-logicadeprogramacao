@@ -1,7 +1,7 @@
 Algoritmo "BancoWhile"
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Crie um programa que realize as 4 operações matemática a partir de dois números que serão digitados pelo usuário. Após isto imprima os valores na tela e em seguida pergunte se ele quer realizar novo cálculo, repetido as operações enquanto o usuário desejar continuar.
+// Descrição   : Crie um programa que permita ao usuário escolher a operação a realizar: 1. Depósito 2. Saque 3. Transferência 4. Empréstimo;
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 27/05/2022
 
