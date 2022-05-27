@@ -1,7 +1,7 @@
 Algoritmo "IdadeClassificacao"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicita a idade e classifica conforme tabela
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

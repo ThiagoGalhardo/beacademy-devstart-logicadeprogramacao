@@ -1,7 +1,7 @@
 Algoritmo "DepositoSaqueSaldo"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicita o depósito ou saque e informa na tela o saldo inicial, final e o deposito ou saque
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

@@ -1,7 +1,7 @@
 Algoritmo "IMCcondicional"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicita altura e o peso e classifica o IMC conforme tabela
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

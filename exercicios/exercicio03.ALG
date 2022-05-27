@@ -1,7 +1,7 @@
 Algoritmo "OperadoresAritmeticos"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicita o nome e a idade, faz verificações e imprime na tela
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

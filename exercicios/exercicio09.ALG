@@ -1,7 +1,7 @@
 Algoritmo "figuraGeometrica"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Receba do usuário a figura geométrica que deseja calcular a área e o perímetro (Q-Quadrado ou T-Triângulo) e calcule e exiba a área e o perímetro da figura escolhida
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

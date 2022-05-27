@@ -1,7 +1,7 @@
 Algoritmo "Deposito"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicita o depósito e informa na tela o saldo inicial, final e o deposito
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

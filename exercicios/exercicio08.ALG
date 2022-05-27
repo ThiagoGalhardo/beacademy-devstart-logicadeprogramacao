@@ -1,7 +1,7 @@
-Algoritmo "OperacaoCondicional"
+Algoritmo "OperacaoCondicionalCase"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e imprime na tela
+// Descrição   : Solicite ao usuário a operação desejada e implemente as quatro operações matemáticas (soma, subtração, multiplicação e divisão)
 // Autor(a)    : Thiago Galhardo
 // Data atual  : 25/05/2022
 

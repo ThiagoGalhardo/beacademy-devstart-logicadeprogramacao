@@ -2,7 +2,7 @@ Algoritmo "CalculoIMC"
 
 // Disciplina  : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
-// Descrição   : Solicita o nome, peso e altura e, calcula IMC e imprime na tela
+// Descrição   : Solicita o nome, peso e altura, calcula IMC e imprime na tela
 // Autor(a)    : Thiago Galhardo
 // Exercício   : CalculoIMC / Exercício 2
 
