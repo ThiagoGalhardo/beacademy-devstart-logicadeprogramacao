@@ -76,3 +76,4 @@ Feito com 💜 por Thiago Galhardo 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Galhardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thgalhardo/)](https://www.linkedin.com/in/thgalhardo/)
 [![GitHub Badge](https://img.shields.io/badge/-Thiago_Galhardo-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ThiagoGalhardo/)](https://github.com/thiagogalhardo/)
+  
